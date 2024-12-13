@@ -1,2 +1,2 @@
 def write_test_about_branch():
-    pass
+    print("my commit for test branch")
