@@ -23,5 +23,7 @@ app.include_router(auth.router)
 async def root():
     print("added some things to test branch")
     print("hello")
+    print("world")
+    print("hello")
     return {"message" : "Hello World!!!! here is a change to see the rebase"}
 
